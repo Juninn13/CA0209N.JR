@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab1070\\Desktop\\CA0209N.JR\\",
+  "WorkspaceRootPath": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1070\\desktop\\ca0209n.jr\\0209n\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1060\\desktop\\ca0209n.jr\\0209n\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1070\\desktop\\ca0209n.jr\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209n\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "0209N\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Fornecedor.cs",
+              "RelativeToolTip": "0209N\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T23:11:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\lab1070\\Desktop\\CA0209N.JR\\0209N\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Cliente.cs",
               "RelativeDocumentMoniker": "0209N\\Cliente.cs",
-              "ToolTip": "C:\\Users\\lab1070\\Desktop\\CA0209N.JR\\0209N\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Cliente.cs",
               "RelativeToolTip": "0209N\\Cliente.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T00:45:42.993Z",
               "EditorCaption": ""
@@ -37,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab1070\\Desktop\\CA0209N.JR\\0209N\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Program.cs",
               "RelativeDocumentMoniker": "0209N\\Program.cs",
-              "ToolTip": "C:\\Users\\lab1070\\Desktop\\CA0209N.JR\\0209N\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1060\\Desktop\\CA0209N.JR\\0209N\\Program.cs",
               "RelativeToolTip": "0209N\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
