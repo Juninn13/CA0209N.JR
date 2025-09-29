@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace _0209N
 {
-    internal class Pessoa
+    public class Pessoa
+        public string CPF;
+        public string Nome;
+        public string Idade;
+        public string Endereço;
+        public string Email;
+
+        public void Cadastrar ()
+        public void Consultar ()
     {
     }
 }
