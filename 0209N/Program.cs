@@ -10,6 +10,13 @@ namespace _0209N
     {
         static void Main(string[] args)
         {
+            Cliente cliente = new Cliente();
+            cliente.Cadastrar();
+            cliente.Consultar();
+
+            Fornecedor fornecedor = new Fornecedor();
+            fornecedor.cadastroFornecedor();
+            fornecedor.Exibir();
         }
     }
 }
