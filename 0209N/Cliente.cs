@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0209N
 {
-    class Cliente
+   internal class Cliente
     {
         public int ID;
         public string cpf;
