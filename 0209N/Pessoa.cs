@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _0209N
 {
-    public class Pessoa
+    internal class Pessoa
+    {
         public string CPF;
         public string Nome;
         public string Idade;
@@ -15,6 +16,5 @@ namespace _0209N
 
         public void Cadastrar ()
         public void Consultar ()
-    {
     }
 }
